@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="operating1">Operating 1 : </string>
+    <string name="operating2">Operating 2 : </string>
+    <string name="sum">Sum</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="division">Division</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="result">"Result : "</string>
+    <string name="calculate">Calculate</string>
+</resources>
